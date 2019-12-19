@@ -1,0 +1,94 @@
+{
+    "name": "Logmatic.io",
+    "description": "Log Centralization, Analytics & Visualization in one Log Analyzer to Improve Software & Business Performance. 100% Cloud Based, No Agent, Free Trial!",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19913-logmatic-io.jpg",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "logging"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/logmatic-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Logmatic.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/19913-logmatic-io.jpg",
+            "humanURL": "https:\/\/logmatic.io",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/logmatic-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "http:\/\/logmatic.io\/blog\/"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/logmatic-io"
+        },
+        {
+            "type": "Developers",
+            "url": "https:\/\/doc.logmatic.io\/"
+        },
+        {
+            "type": "Documentation",
+            "url": "http:\/\/doc.logmatic.io\/"
+        },
+        {
+            "type": "Email",
+            "url": "sales@logmatic.io"
+        },
+        {
+            "type": "Email",
+            "url": "support@logmatic.io"
+        },
+        {
+            "type": "Getting Started",
+            "url": "https:\/\/doc.logmatic.io\/docs\/getting-started-with-logmaticio"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/logmatic"
+        },
+        {
+            "type": "Integrations",
+            "url": "https:\/\/logmatic.io\/integrations\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "http:\/\/logmatic.io\/pricing\/"
+        },
+        {
+            "type": "Pricing",
+            "url": "https:\/\/logmatic.io\/pricing\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/logmatic"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/logmatic_"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/logmatic.io"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/logmatic.io\/"
+        }
+    ]
+}
